@@ -1,4 +1,4 @@
-### Hi there 👋, I am Fahamidul Haque
+### Hi there 👋, I'm Fahamidul Haque
 
 
 Web Development | Data Mining
@@ -8,5 +8,5 @@ Web Development | Data Mining
 - 👯 I’m looking to collaborate on Open Source Javascript libraries.
 - 💬 Ask me about HTML,CSS,Bootstrap,Tailwind CSS,Javascript,React,Python etc.
 - 📫 How to reach me: fahamidulaoyon@gmail.com
-- 😄 Pronouns: He
+- 😄 Pronouns: He/Him
 
