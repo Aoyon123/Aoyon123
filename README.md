@@ -29,6 +29,14 @@ Skills:  REACT / JS / HTML / CSS / PHP / LARAVEL / JQUERY
 - ⚡ Fun fact: I love to eating, i love to travel 
 - ⚡ Fun fact **I love to eating, i love to travel also i love to cycling**
 
+![fahamidul Aoyon's Stats](https://github-readme-stats.vercel.app/api?username=Aoyon123&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+
+![fahamidul Aoyon's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aoyon123&theme=darcula&hide_border=true)
+
+![fahamidul Aoyon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aoyon123&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/fahamidul-haque-7a84711a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fahamidul-haque-7a84711a7/" height="30" width="40" /></a>
