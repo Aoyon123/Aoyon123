@@ -1,18 +1,20 @@
 <h1 align="center">Hi 👋, I'm Fahamidul Haque</h1>
-<h3 align="center">I am a Full Stack Developer with a huge love for React.js, Laravel.</h3>
+<h3 align="center">Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aoyon123&label=Profile%20views&color=0e75b6&style=flat" alt="aoyon123" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aoyon123" alt="aoyon123" /></a> </p>
 
-- 🔭 I’m currently working on [Vumiseba](https://vumiseba.com.bd/home)
+Experienced Junior Software Engineer with over 1.5 years in the industry, specializing in backend development using PHP Laravel framework and frontend technologies such as JavaScript and React. I am passionate about writing clean, efficient, and scalable code that not only meets high-quality standards but also optimizes performance. My expertise lies in implementing proper coding mechanisms, leveraging algorithms, and utilizing Git for version control to ensure seamless collaboration and code integrity.
 
-- 🌱 I’m currently learning **many things, I believe that everyday is a learning opportunity.**
+Skills:  REACT / JS / HTML / CSS / PHP / LARAVEL / JQUERY
 
-- 💬 Ask me about **react,php,laravel**
-
-- 📫 How to reach me **fahamidulaoyon@gmail.com**
-
+- 🔭 I’m currently working on Software Company 
+- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity. 
+- 💬 Ask me about Php, Laravel, JavaScript, React.js 
+- 📫 How to reach me: fahamidulaoyon@gmail.com 
+- 😄 Pronouns: He & Happy 
+- ⚡ Fun fact: I love to eating, i love to travel 
 - ⚡ Fun fact **I love to eating, i love to travel also i love to cycling**
 
 <h3 align="left">Connect with me:</h3>
